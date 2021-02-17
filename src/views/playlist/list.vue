@@ -37,7 +37,7 @@ export default {
     return {
       playlist: [],
       count: 10,
-      loading: false,
+      loading: false, 
       delDialogVisible: false,
       info:{}
     };
